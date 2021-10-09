@@ -1,0 +1,10 @@
+C:\Users\Shaman\source\repos\4etnoene4etnoe\4etnoene4etnoe\bin\Debug\4etnoene4etnoe.exe.config
+C:\Users\Shaman\source\repos\4etnoene4etnoe\4etnoene4etnoe\bin\Debug\4etnoene4etnoe.exe
+C:\Users\Shaman\source\repos\4etnoene4etnoe\4etnoene4etnoe\bin\Debug\4etnoene4etnoe.pdb
+C:\Users\Shaman\source\repos\4etnoene4etnoe\4etnoene4etnoe\obj\Debug\4etnoene4etnoe.csprojAssemblyReference.cache
+C:\Users\Shaman\source\repos\4etnoene4etnoe\4etnoene4etnoe\obj\Debug\_4etnoene4etnoe.Form1.resources
+C:\Users\Shaman\source\repos\4etnoene4etnoe\4etnoene4etnoe\obj\Debug\_4etnoene4etnoe.Properties.Resources.resources
+C:\Users\Shaman\source\repos\4etnoene4etnoe\4etnoene4etnoe\obj\Debug\4etnoene4etnoe.csproj.GenerateResource.cache
+C:\Users\Shaman\source\repos\4etnoene4etnoe\4etnoene4etnoe\obj\Debug\4etnoene4etnoe.csproj.CoreCompileInputs.cache
+C:\Users\Shaman\source\repos\4etnoene4etnoe\4etnoene4etnoe\obj\Debug\4etnoene4etnoe.exe
+C:\Users\Shaman\source\repos\4etnoene4etnoe\4etnoene4etnoe\obj\Debug\4etnoene4etnoe.pdb
